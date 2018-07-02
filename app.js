@@ -1,0 +1,1 @@
+import './statics/sass/app.scss';
