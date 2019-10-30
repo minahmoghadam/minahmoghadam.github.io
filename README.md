@@ -1,5 +1,5 @@
 ## Demo
-[**Demo page**](https://mina70.github.io)
+[**Demo page**](https://minahmoghadam.github.io)
 
 ## Prerequisites
 - Node.js
@@ -12,7 +12,7 @@
 > npm start
 
 ## Contributors
-[**Mina Hosseini Moghadam**](http://linkedin.com/in/minahm)
+[**Mina Hosseini Moghadam**](http://linkedin.com/in/minahmoghadam)
 
 
 
